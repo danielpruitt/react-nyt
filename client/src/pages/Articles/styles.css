@@ -1,0 +1,19 @@
+.headings {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    
+}
+
+.siteTitle {
+    color: white;
+}
+
+.color {
+    background-color: darkslategrey;
+    color: whitesmoke;
+    font-family: 'Lato', sans-serif;
+}
+p, h1 {
+    font-family: 'Lato', sans-serif;
+}
